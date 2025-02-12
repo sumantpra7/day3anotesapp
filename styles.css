@@ -21,7 +21,7 @@ input, textarea {
 }
 
 button {
-    background: green;
+    background: rgb(0, 64, 128);
     color: white;
     border: none;
     padding: 10px;
